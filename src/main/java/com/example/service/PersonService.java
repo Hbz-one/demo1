@@ -28,6 +28,13 @@ public class PersonService {
 		persons.add(p);
 		
 		p = new Person();
+		p.setId("10");
+		p.setAge(25);
+		p.setFirstName("Hello");
+		p.setLastName("Shay");
+		persons.add(p);
+		
+		p = new Person();
 		p.setId("3");
 		p.setAge(25);
 		p.setFirstName("Basem");
