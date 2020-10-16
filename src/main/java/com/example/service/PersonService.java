@@ -23,8 +23,8 @@ public class PersonService {
 		p = new Person();
 		p.setId("2");
 		p.setAge(25);
-		p.setFirstName("Mohammed");
-		p.setLastName("Shalaby");
+		p.setFirstName("Nour");
+		p.setLastName("Test");
 		persons.add(p);
 		
 		p = new Person();
